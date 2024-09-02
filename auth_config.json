@@ -1,0 +1,10 @@
+{
+  "domain": "auth0.com",
+  "clientId": "cWO4ZRTbGP9XXBVjs8X984wxpObkkgTC",
+  "authorizationParams": {
+    "audience": "{yourApiIdentifier}"
+  },
+  "apiUri": "http://localhost:3001",
+  "appUri": "http://localhost:4200",
+  "errorPath": "/error"
+}
