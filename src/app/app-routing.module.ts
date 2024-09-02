@@ -14,9 +14,8 @@ export const routes: Routes = [
     canActivate: [authGuardFn],
   },
   {
-    path: 'external-api',
+    path: 'my-needed-integration',
     component: ExternalApiComponent,
-    canActivate: [authGuardFn],
   },
   {
     path: 'error',
